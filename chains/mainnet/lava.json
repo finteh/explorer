@@ -1,0 +1,25 @@
+{
+    "chain_name": "lava",
+    "api": [
+        "https://lava.api-archive.m.stavr.tech:443"
+    ],
+    "rpc": [
+        "tcp://127.0.0.1:26657"
+    ],
+    "snapshot_provider": "",
+    "sdk_version": "0.47.10",
+    "coin_type": "118",
+    "min_tx_fee": "1",
+    "addr_prefix": "lava@",
+    "logo": "https://cdn.prod.website-files.com/642c9c8327126062770bfdd0/66914fbd90c7dcb823154963_logo-full.svg",
+    "theme_color": "#161723",
+    "assets": [
+        {
+            "base": "ulava",
+            "symbol": "LAVA",
+            "exponent": "6",
+            "coingecko_id": "lava-network",
+            "logo": "https://cdn.prod.website-files.com/642c9c8327126062770bfdd0/66914fbd90c7dcb823154963_logo-full.svg"
+        }
+    ]
+}
